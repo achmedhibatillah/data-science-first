@@ -1,0 +1,2 @@
+aku <- "Ahmed"
+aku
